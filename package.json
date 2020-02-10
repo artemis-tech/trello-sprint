@@ -1,0 +1,26 @@
+{
+  "name": "trello-sprint-labelling",
+  "version": "1.0.0-alpha",
+  "description": "Agile Power-Up to ease cards labelling based on Sprint lifecycle",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo -n 'fake build'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artemis-tech/trello-sprint-labelling.git"
+  },
+  "keywords": [
+    "agile",
+    "kanban",
+    "automation",
+    "trello"
+  ],
+  "author": "Vinicius Niche Correa <viniciusnichecorrea@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/artemis-tech/trello-sprint-labelling/issues"
+  },
+  "homepage": "https://github.com/artemis-tech/trello-sprint-labelling#readme"
+}
